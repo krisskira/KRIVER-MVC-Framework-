@@ -1,0 +1,18 @@
+Options -Indexes
+DirectoryIndex app/index.php
+
+<Files .htaccess>
+    order allow,deny
+    deny from all
+</Files>
+
+RewriteEngine on
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteRule ^(.*)/?$ app/index.php/$1 [L]
+#RewriteRule ^(.*)$ app/index.php/$1 [L]
+#ErrorDocument 400 /errors/badrequest.html
+#ErrorDocument 401 /errors/authreqd.html
+#ErrorDocument 403 /errors/forbid.html
+#ErrorDocument 404 /errors/notfound.html
+#ErrorDocument 500 /errors/serverr.html

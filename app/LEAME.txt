@@ -1,0 +1,37 @@
+/** 
+ *   KRIVER DEVICE CONFIDENTIAL
+ *  ____________________________
+ * 
+ * Copyright (c) 2018 KRIVER DEVICE
+ * All Rights Reserved
+ * 
+ * This product is protected by copyright and distributed under
+ * licenses restricting copying, distribution, and decompilation.
+ * 
+ * AVISO: 
+ * 
+ *  Toda la información contenida aquí es, y permanece bajo la propiedad
+ *  de KRIVER DEVICE y sus proveedores. Los conceptos intelectuales y 
+ *  técnicos contenidos en este documento son propiedad de KRIVER DEVICE
+ *  y sus proveedores, y pueden estar cubiertos por patentes de EE. UU., 
+ *  extranjeras y patentes en proceso, están protegidas por secreto 
+ *  comercial o ley de propiedad intelectual. Difusión de esta información
+ *  o reproducción de este material está estrictamente prohibido a menos 
+ *  que se de credito de autor y se mantengan los derechos del mismo en el 
+ *  encabezado de este archivo o se solicite un permiso previo por escrito
+ *  de KRIVER DEVICE.
+ * 
+ *  Los programas y codigos escritos en estos documentos no fueron construidos
+ *  con el proposito de crear ningun tipo de sistema para salvar vidas o 
+ *  dispositivos que puedan llegar a causar algun tipo de perjuicio y no debe
+ *  usarse para tal fin. KRIVER DEVICE no se hace responsable de ningun perjuicio
+ *  Causado por la utilización de este contenido sin un previo analisis y permiso 
+ *  escrito y firmado por parte de KRIVER DEVICE.
+ * 
+ *  Contributors:
+ * 
+ * Autor:       Crhstian David Vergara Gomez
+ * Version:     1.0
+ * Description: Initial API and implementation
+ * 
+ * **/
