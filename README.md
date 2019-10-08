@@ -1,1 +1,1 @@
-# kriverPHP Framework MVC
+# kriver Framework PHP-MVC
